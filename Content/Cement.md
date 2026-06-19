@@ -299,9 +299,9 @@ Curve 2 : for expected 28 days compressive strength of 43 and < 53 N/mm2
 Curve 3 : for expected 28 days compressive strength of 53 N/mm2 and above
 
 **NOTES**
-```
+
 1 In the absence of data on actual 28 days compressive strength of cement, the curves 1, 2 and 3 may be used for OPC 33, OPC 43 and
 OPC 53, respectively.
 2 While using PPC/PSC, the appropriate curve as per the actual strength may be utilized. In the absence of the actual 28 days compressive
 strength data, curve 2 may be utilized.
-```
+
