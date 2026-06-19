@@ -372,14 +372,20 @@ flowchart TD
   <path class="curve" d="M110 95 C190 160, 275 215, 355 250 C450 300, 600 360, 760 395"/>
 
   <!-- Curve labels -->
-  <text x="245" y="315" class="label">CURVE 1</text>
-  <line x1="305" y1="305" x2="350" y2="295" stroke="#111" stroke-width="1.5"/>
+  <text x="220" y="350" class="label">Curve 1</text>
+<line x1="290" y1="345" x2="390" y2="340"
+      stroke="#111" stroke-width="2"
+      marker-end="url(#arrow)"/>
 
-  <text x="500" y="250" class="label">CURVE 2</text>
-  <line x1="490" y1="258" x2="440" y2="285" stroke="#111" stroke-width="1.5"/>
-
-  <text x="400" y="190" class="label">CURVE 3</text>
-  <line x1="392" y1="195" x2="350" y2="248" stroke="#111" stroke-width="1.5"/>
+  <text x="520" y="275" class="label">Curve 2</text>
+<line x1="500" y1="280" x2="430" y2="300"
+      stroke="#111" stroke-width="2"
+      marker-end="url(#arrow)"/>
+      
+  <text x="420" y="180" class="label">Curve 3</text>
+<line x1="410" y1="185" x2="350" y2="245"
+      stroke="#111" stroke-width="2"
+      marker-end="url(#arrow)"/>
 
   <!-- Notes -->
   <text x="110" y="565" class="small">
